@@ -6,12 +6,12 @@ import {getFirestore} from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDL_Aa17srwih8tgS115Xv0WS-azvkpqQQ",
-  authDomain: "nextjs13-firebase-challenge2.firebaseapp.com",
-  projectId: "nextjs13-firebase-challenge2",
-  storageBucket: "nextjs13-firebase-challenge2.appspot.com",
-  messagingSenderId: "972370769148",
-  appId: "1:972370769148:web:3f9e7c2db84fe763001379"
+  apiKey: "AIzaSyDm0eWpxM_L9MikEuoX4yBxSAN9u_LI2rk",
+  authDomain: "nextjs13-firebase-challe-e9c73.firebaseapp.com",
+  projectId: "nextjs13-firebase-challe-e9c73",
+  storageBucket: "nextjs13-firebase-challe-e9c73.appspot.com",
+  messagingSenderId: "925988158289",
+  appId: "1:925988158289:web:f4eda321c67485d3f6b170"
 };
 
 // Initialize Firebase
