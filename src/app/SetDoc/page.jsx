@@ -6,7 +6,7 @@ import db from "../../firebase"
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 
-const AddDoc = () => {
+const SetDoc = () => {
 
     // const [users , setUsers] = useState([]);
     const [name , setName] = useState("");
@@ -91,7 +91,7 @@ const AddDoc = () => {
   return (
     <div>
         <div>
-          あとでformとinput
+          こちらはSetDoc
         </div>
         <div className=' text-black'>
             <form action="" onSubmit={inputForm} className='flex flex-col'>
@@ -108,4 +108,4 @@ const AddDoc = () => {
   )
 }
 
-export default AddDoc
+export default SetDoc
